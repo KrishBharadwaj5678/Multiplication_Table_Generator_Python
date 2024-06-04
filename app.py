@@ -5,7 +5,7 @@ st.set_page_config(
     page_title="Multiplication Table Generator",
     page_icon="🧠",
     menu_items={
-        "About":"Our Multiplication Table Generator webpage is designed to assist users in creating customized multiplication tables effortlessly."
+        "About":"Our Multiplication Table Generator is designed to assist users in creating customized multiplication tables effortlessly."
     }
 )
 
