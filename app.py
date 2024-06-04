@@ -1,6 +1,18 @@
 import streamlit as st
 
-st.title(":blue[Multiplication Table Generator]")
+# Defining Page Title,Icon
+st.set_page_config(
+    page_title="Multiplication Table Generator",
+    page_icon="🧠",
+    menu_items={
+        "About":"Our Multiplication Table Generator webpage is designed to assist users in creating customized multiplication tables effortlessly."
+    }
+)
+
+st.markdown(" ### :orange[Welcome to our Multiplication Table Generator]")
+
+st.write("<h5>Whether you're a student sharpening your math skills or a teacher preparing lesson materials, our user-friendly tool makes it easy to generate custom multiplication tables.</h4>",unsafe_allow_html=True)
+
 
 # Taking user Input
 
