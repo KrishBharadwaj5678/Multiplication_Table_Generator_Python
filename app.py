@@ -9,9 +9,9 @@ st.set_page_config(
     }
 )
 
-st.markdown(" ### :orange[Welcome to our Multiplication Table Generator]")
+st.markdown(" ### :orange[Welcome to our Multiplication Table Generator.]")
 
-st.write("<h5>Whether you're a student sharpening your math skills or a teacher preparing lesson materials, our user-friendly tool makes it easy to generate custom multiplication tables.</h4>",unsafe_allow_html=True)
+st.write("<h5>Whether you're a student sharpening your math skills or a teacher preparing lesson materials, our user-friendly tool makes it easy to generate custom multiplication tables.</h5>",unsafe_allow_html=True)
 
 
 # Taking user Input
